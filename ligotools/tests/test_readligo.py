@@ -1,4 +1,4 @@
-from ligotools import .
+from ligotools import *
 
 # First Test
 def first_test():
