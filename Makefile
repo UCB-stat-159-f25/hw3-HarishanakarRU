@@ -1,7 +1,7 @@
 .PHONY : env html clean
 
 env:
-	conda env update -f environment.yml
+	conda env update -f environment.yml --prune
 
 html:
 	myst build --html
