@@ -6,6 +6,7 @@ def whiten_test():
 
     normal = np.random.normal(size=10)
     change = whiten(normal, lambda x: np.zeros(x), 1)
+    
     assert len(normal) == len(change)
 
 # Second Test - sanity test for reqshift
