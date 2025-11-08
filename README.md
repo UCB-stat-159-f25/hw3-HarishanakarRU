@@ -1,3 +1,5 @@
+Description: [FILL IN DESCRIPTION HERE]
+
 Binder Details:
 - Link: https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-HarishanakarRU/c09e063d792cf0f666c2fbcb1e3b4567dc24a87c?urlpath=lab%2Ftree%2FLOSC_Event_tutorial.ipynb
 - Badge: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-HarishanakarRU.git/HEAD?urlpath=%2Fdoc%2Ftree%2FLOSC_Event_tutorial.ipynb)
