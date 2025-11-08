@@ -1,4 +1,4 @@
-Description: For this homework, we used the LOSC_Event_tutorial repository by LIGO and reproduced the notebook in various formats which included  
+Description: For this homework, we used the LOSC_Event_tutorial repository by LIGO and reproduced the notebook in various formats which included creating a Github Pages, making ligotools an installable package, unit tests, as well as a Makefile to have make commands in having the reproducing process shorter. 
 
 Binder Details:
 - Badge: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/hw3-HarishanakarRU.git/HEAD?urlpath=%2Fdoc%2Ftree%2FLOSC_Event_tutorial.ipynb)
